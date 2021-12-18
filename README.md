@@ -8,6 +8,8 @@
 ![newplot](https://user-images.githubusercontent.com/49993791/146654717-0ed626dd-c9f7-46ad-b957-85ce646538f9.png)
 
 4. Analyzing Behaviour of Customers:
+
   4.1 prepare 'Text' feature for analysis (convert it to lower case, remove puncatuations, stopwords, and HTML tags)
+  
   4.2 Visualize Text after preparing using wordCloud
 ![feedbackpng](https://user-images.githubusercontent.com/49993791/146654722-573984da-2f30-4708-b1e5-4ab8c8d6d6f7.png)
